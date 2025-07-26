@@ -39,7 +39,7 @@
     <td><b>Programming Languages</b></td>
     <td> 
       <a href="https://github.com/siddhesh11082002">
-        <img src="https://skillicons.dev/icons?i=js,php,ruby,c,cpp,java,python" />
+        <img src="https://skillicons.dev/icons?i=cpp,java" />
       </a> 
     </td>
   </tr>
@@ -55,7 +55,7 @@
     <td><b>Backend Development</b></td>
     <td> 
       <a href="https://github.com/siddhesh11082002">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,ruby" />
+        <img src="https://skillicons.dev/icons?i=spring,java,hibernate" />
       </a>
     </td>
   </tr>
@@ -89,7 +89,6 @@
     <td> 
       <a href="https://github.com/siddhesh11082002">
         <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,eclipse,docker" />
-        <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" />
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="GitBash" />
       </a>
     </td>
@@ -99,23 +98,6 @@
     <td> 
       <a href="https://github.com/siddhesh11082002">
         <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>IoT & Embedded Systems</b></td>
-    <td> 
-      <a href="https://github.com/siddhesh11082002">
-        <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
-        <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Game Development Tools</b></td>
-    <td> 
-      <a href="https://github.com/siddhesh11082002">
-        <img src="https://skillicons.dev/icons?i=unity,blender" />
       </a>
     </td>
   </tr>
